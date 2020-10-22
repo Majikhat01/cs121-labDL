@@ -7,8 +7,8 @@ import java.util.Scanner;
  * Lesson 12: Activity - ArrayLists
  *
  * @author CS121 Instructors
- * @version [semester]
- * @author [your name]
+ * @version Fall 2020
+ * @author Calvin Hatfield
  */
 public class MASHGame {
 
